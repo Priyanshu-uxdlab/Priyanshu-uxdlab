@@ -42,7 +42,7 @@
 
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshukumar1)](https://github.com/Priyanshukumar1/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu-uxdlab)](https://github.com/Priyanshu-uxdlb/github-readme-stats)
 
 
 
