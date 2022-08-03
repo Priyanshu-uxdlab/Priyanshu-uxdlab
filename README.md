@@ -1,6 +1,6 @@
 ### Hi there, I'm priyanshu 👋
 
-## I'm a student, programmer, Developer, and Quick learner !!
+## I'm a programmer, Developer, and Quick learner !!
 
 
 - 🌱 I’m currently learning everything 🤣
