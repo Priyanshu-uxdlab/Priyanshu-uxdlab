@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other Devloper
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to travel and play guitar
+- ⚡ Fun fact: I love to travel.
 
 
 ### Connect with me:
