@@ -37,4 +37,5 @@
 
 ---
 ![Priyanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Priyanshu-uxdlab&show_icons=true&theme=radical)
+---
 [linkedin]: https://www.linkedin.com/in/the-priyanshu-kumar/
